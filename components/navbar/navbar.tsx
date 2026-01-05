@@ -1,6 +1,5 @@
 import { ModeToggle } from "@/components/theme/mode-toggle";
 import { getTranslations } from "next-intl/server";
-import { LanguageToggle } from "./language-toggle";
 
 const Navbar = async () => {
   const t = await getTranslations("common");
@@ -12,7 +11,6 @@ const Navbar = async () => {
           <p className="capitalize">{t("portfolio")}</p>
         </div>
         <div className="flex items-center gap-0.5">
-          <LanguageToggle />
           <ModeToggle />
         </div>
       </div>
