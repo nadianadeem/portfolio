@@ -34,11 +34,11 @@
       "logo": "/logo/rare-logo.png",
       "logoDark": "/logo/rare-logo.png",
       "startDate": "07/23",
-      "endDateKey": "work.kiosk.end-date",
+      "endDateKey": "work.rare.end-date",
       "highlights": [
-        "work.kiosk.highlights.navigation-speed",
-        "work.kiosk.highlights.design-system",
-        "work.kiosk.highlights.architecture-refactor"
+        "work.rare.highlights.engine-work",
+        "work.rare.highlights.support-work",
+        "work.rare.highlights.compliance-work"
       ],
       "skills": [
         {
@@ -49,222 +49,30 @@
         {
           "id": "CSharp",
           "nameKey": "skills.CSharp",
-          "url": ""
+          "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
         },
         {
-          "id": "remix",
-          "nameKey": "skills.remix",
-          "url": "https://remix.run/"
+          "id": "UE4",
+          "nameKey": "skills.UE4",
+          "url": "https://www.unrealengine.com/en-US/unreal-engine-4"
         },
         {
-          "id": "mantine",
-          "nameKey": "skills.mantine",
-          "url": "https://mantine.dev/"
-        },
-        {
-          "id": "prisma",
-          "nameKey": "skills.prisma",
-          "url": "https://www.prisma.io/"
-        },
-        {
-          "id": "storybook",
-          "nameKey": "skills.storybook",
-          "url": "https://storybook.js.org/"
-        },
-        {
-          "id": "playwright",
-          "nameKey": "skills.playwright",
-          "url": "https://playwright.dev/"
-        },
-        {
-          "id": "i18next",
-          "nameKey": "skills.i18next",
-          "url": "https://www.i18next.com/"
-        }
-      ]
-    },
-    {
-      "id": "kiosk",
-      "nameKey": "work.kiosk.name",
-      "locationKey": "work.kiosk.location",
-      "positionKey": "work.kiosk.position",
-      "summaryKey": "work.kiosk.summary",
-      "url": "https://www.meetkiosk.com/",
-      "logo": "/logo/kiosk.svg",
-      "logoDark": "/logo/kiosk-dark.png",
-      "startDate": "11/24",
-      "endDateKey": "work.kiosk.end-date",
-      "highlights": [
-        "work.kiosk.highlights.navigation-speed",
-        "work.kiosk.highlights.design-system",
-        "work.kiosk.highlights.architecture-refactor"
-      ],
-      "skills": [
-        {
-          "id": "CPlusPlus",
-          "nameKey": "skills.CPlusPlus",
-          "url": "https://cplusplus.com/"
-        },
-        {
-          "id": "typescript",
-          "nameKey": "skills.typescript",
-          "url": "https://www.typescriptlang.org/"
-        },
-        {
-          "id": "remix",
-          "nameKey": "skills.remix",
-          "url": "https://remix.run/"
-        },
-        {
-          "id": "mantine",
-          "nameKey": "skills.mantine",
-          "url": "https://mantine.dev/"
-        },
-        {
-          "id": "prisma",
-          "nameKey": "skills.prisma",
-          "url": "https://www.prisma.io/"
-        },
-        {
-          "id": "storybook",
-          "nameKey": "skills.storybook",
-          "url": "https://storybook.js.org/"
-        },
-        {
-          "id": "playwright",
-          "nameKey": "skills.playwright",
-          "url": "https://playwright.dev/"
-        },
-        {
-          "id": "i18next",
-          "nameKey": "skills.i18next",
-          "url": "https://www.i18next.com/"
-        }
-      ]
-    },
-    {
-      "id": "canal",
-      "nameKey": "work.canal.name",
-      "locationKey": "work.canal.location",
-      "positionKey": "work.canal.position",
-      "summaryKey": "work.canal.summary",
-      "url": "https://www.canalplus.com/",
-      "logo": "/logo/mycanal.svg",
-      "logoDark": "/logo/mycanal.svg",
-      "startDate": "03/24",
-      "endDateKey": "work.canal.end-date",
-      "highlights": [
-        "work.canal.highlights.streaming-development",
-        "work.canal.highlights.library-version",
-        "work.canal.highlights.migration",
-        "work.canal.highlights.maintainability"
-      ],
-      "skills": [
-        {
-          "id": "CPlusPlus",
-          "nameKey": "skills.CPlusPlus",
-          "url": "https://cplusplus.com/"
-        },
-        {
-          "id": "typescript",
-          "nameKey": "skills.typescript",
-          "url": "https://www.typescriptlang.org/"
-        },
-        {
-          "id": "scss",
-          "nameKey": "skills.scss",
-          "url": "https://sass-lang.com/"
-        },
-        {
-          "id": "storybook",
-          "nameKey": "skills.storybook",
-          "url": "https://storybook.js.org/"
-        },
-        {
-          "id": "vitest",
-          "nameKey": "skills.vitest",
-          "url": "https://vitest.dev/"
-        },
-        {
-          "id": "playwright",
-          "nameKey": "skills.playwright",
-          "url": "https://playwright.dev/"
-        },
-        {
-          "id": "a11y",
-          "nameKey": "skills.a11y"
-        },
-        {
-          "id": "i18n",
-          "nameKey": "skills.i18n"
-        }
-      ]
-    },
-    {
-      "id": "dcbrain",
-      "nameKey": "work.dcbrain.name",
-      "locationKey": "work.dcbrain.location",
-      "positionKey": "work.dcbrain.position",
-      "summaryKey": "work.dcbrain.summary",
-      "url": "https://dcbrain.com/",
-      "logo": "/logo/dcbrain.svg",
-      "logoDark": "/logo/dcbrain.svg",
-      "startDate": "04/23",
-      "endDateKey": "work.dcbrain.end-date",
-      "highlights": [
-        "work.dcbrain.highlights.component-design",
-        "work.dcbrain.highlights.kpi-card",
-        "work.dcbrain.highlights.client-needs",
-        "work.dcbrain.highlights.modernization"
-      ],
-      "skills": [
-        {
-          "id": "custom-framework",
-          "nameKey": "skills.custom-framework"
-        },
-        {
-          "id": "typescript",
-          "nameKey": "skills.typescript",
-          "url": "https://www.typescriptlang.org/"
-        },
-        {
-          "id": "css",
-          "nameKey": "skills.css",
-          "url": "https://developer.mozilla.org/fr/docs/Web/CSS"
-        },
-        {
-          "id": "i18n",
-          "nameKey": "skills.i18n"
+          "id": "UE5",
+          "nameKey": "skills.UE5",
+          "url": "https://www.unrealengine.com/en-US/unreal-engine-5"
         }
       ]
     }
   ],
   "projects": [
     {
-      "id": "episo",
-      "nameKey": "projects.episo.name",
-      "descriptionKey": "projects.episo.description",
-      "logo": "/logo/episo.svg",
-      "logoDark": "/logo/episo-dark.svg",
+      "id": "SystemsPlayground",
+      "nameKey": "projects.SystemsPlayground.name",
+      "descriptionKey": "projects.SystemsPlayground.description",
+      "logo": "/logo/systems-playground-logo.png",
+      "logoDark": "/logo/systems-playground-logo.png",
       "year": "2025",
-      "url": "https://episo.vercel.app/en/trending"
-    },
-    {
-      "id": "delices",
-      "nameKey": "projects.delices.name",
-      "descriptionKey": "projects.delices.description",
-      "logo": "/logo/delice-de-yifan.svg",
-      "logoDark": "/logo/delice-de-yifan.svg",
-      "year": "2024"
-    },
-    {
-      "id": "sopra",
-      "nameKey": "projects.sopra.name",
-      "descriptionKey": "projects.sopra.description",
-      "logo": "/logo/sopra-steria.svg",
-      "logoDark": "/logo/sopra-steria.svg",
-      "year": "2023",
-      "url": "https://github.com/strawhattom/battle-judge-front"
+      "url": "https://github.com/nadianadeem/SystemsPlayground"
     }
   ],
   "skills": [
@@ -274,46 +82,24 @@
       "url": "https://cplusplus.com/"
     },
     {
-      "id": "typescript",
-      "nameKey": "skills.typescript",
-      "url": "https://www.typescriptlang.org/"
-    },
-    { "id": "remix", "nameKey": "skills.remix", "url": "https://remix.run/" },
-    {
-      "id": "css",
-      "nameKey": "skills.css",
-      "url": "https://developer.mozilla.org/fr/docs/Web/CSS"
-    },
-    { "id": "scss", "nameKey": "skills.scss", "url": "https://sass-lang.com/" },
-    {
-      "id": "tailwind",
-      "nameKey": "skills.tailwind",
-      "url": "https://tailwindcss.com/"
+      "id": "CSharp",
+      "nameKey": "skills.CSharp",
+      "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
     },
     {
-      "id": "storybook",
-      "nameKey": "skills.storybook",
-      "url": "https://storybook.js.org/"
+      "id": "UE4",
+      "nameKey": "skills.UE4",
+      "url": "https://www.unrealengine.com/en-US/unreal-engine-4"
     },
     {
-      "id": "vitest",
-      "nameKey": "skills.vitest",
-      "url": "https://vitest.dev/"
+      "id": "UE5",
+      "nameKey": "skills.UE5",
+      "url": "https://www.unrealengine.com/en-US/unreal-engine-5"
     },
     {
-      "id": "playwright",
-      "nameKey": "skills.playwright",
-      "url": "https://playwright.dev/"
-    },
-    {
-      "id": "a11y",
-      "nameKey": "skills.a11y",
-      "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility"
-    },
-    {
-      "id": "i18next",
-      "nameKey": "skills.i18next",
-      "url": "https://www.i18next.com/"
+      "id": "Unity",
+      "nameKey": "skills.Unity",
+      "url": "https://unity.com/"
     }
   ]
 }

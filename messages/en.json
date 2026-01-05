@@ -72,57 +72,19 @@
         "name": "Rare",
         "location": "Twycross, UK",
         "position": "Software Engineer",
-        "summary": "Kiosk provides the software companies use to ensure CSRD compliance.",
+        "summary": "Rare is game studio in the UK known for their live service title Sea of Thieves as well several nostalgic games.",
         "end-date": "Present",
         "highlights": {
-          "navigation-speed": "Resolved critical bugs that cut navigation time from 4.62s to under 30ms, significantly improving the user experience.",
-          "design-system": "Introduced a design system that ensures visual consistency and a smoother UX.",
-          "architecture-refactor": "Redesigned the frontend architecture with a modular Domain-Driven approach (entities, services, data repositories) to improve maintainability and readability."
-        }
-      },
-      "kiosk": {
-        "name": "Kiosk",
-        "location": "Paris, 75003",
-        "position": "Frontend Engineer",
-        "summary": "Kiosk provides the software companies use to ensure CSRD compliance.",
-        "end-date": "Present",
-        "highlights": {
-          "navigation-speed": "Resolved critical bugs that cut navigation time from 4.62s to under 30ms, significantly improving the user experience.",
-          "design-system": "Introduced a design system that ensures visual consistency and a smoother UX.",
-          "architecture-refactor": "Redesigned the frontend architecture with a modular Domain-Driven approach (entities, services, data repositories) to improve maintainability and readability."
-        }
-      },
-      "canal": {
-        "name": "Canal+",
-        "location": "Puteaux, 92800",
-        "position": "Frontend Developer",
-        "summary": "Canal+ is the media group behind the [myCanal](https://www.canalplus.com/) streaming platform. During my final-year internship, I worked on redesigning the in-app editorial articles.",
-        "end-date": "09/24",
-        "highlights": {
-          "streaming-development": "Developed and maintained features for the myCanal streaming application.",
-          "library-version": "Shipped a major version of the internal library used to generate editorial articles.",
-          "migration": "Migrated class components to functional ones, added unit and functional tests, and maintained Storybook documentation.",
-          "maintainability": "Improved code maintainability, modernized the UI/UX of news articles, and embedded accessibility best practices."
-        }
-      },
-      "dcbrain": {
-        "name": "DCbrain",
-        "location": "Paris, 75017",
-        "position": "Frontend Developer",
-        "summary": "[DCbrain](https://dcbrain.com/) is a startup that builds SaaS software to plan the supply chain. During this internship I contributed directly to product development by releasing new features.",
-        "end-date": "09/23",
-        "highlights": {
-          "component-design": "Designed components alongside the designer and product manager.",
-          "kpi-card": "Developed a KPI card and redesigned the sidebar to support hierarchical organization.",
-          "client-needs": "Analyzed customer needs and quickly onboarded on the in-house framework.",
-          "modernization": "Modernized the supply-chain planning SaaS interface."
+          "engine-work": "I worked on integrating and updating middleware software into the engine as well as upgrading Unreal Engine to new versions.",
+          "support-work": "Created tooling to help wider teams adhere to memory budgets, improve UI workflow and capability alongside game side system functionality, and generate clarity on game performance through telemetry systems.",
+          "compliance-work": "Enforced ruling on the codebase to increase code quality and conformance for future engine version upgrades to aid in new platform releases."
         }
       }
     },
     "projects": {
-      "episo": {
-        "name": "Episo",
-        "description": "Search engine for movies and TV shows"
+      "SystemsPlayground": {
+        "name": "Systems Playground",
+        "description": "A small, systems‑focused C++ engine prototype built to explore modern game‑engine architecture."
       },
       "delices": {
         "name": "Délices de Yifan",
