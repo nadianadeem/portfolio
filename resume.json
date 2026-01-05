@@ -31,8 +31,8 @@
       "positionKey": "work.rare.position",
       "summaryKey": "work.rare.summary",
       "url": "https://www.rare.co.uk/",
-      "logo": "/logo/rare-logo.svg",
-      "logoDark": "/logo/rare-logo.svg",
+      "logo": "/logo/rare-logo.png",
+      "logoDark": "/logo/rare-logo.png",
       "startDate": "07/23",
       "endDateKey": "work.kiosk.end-date",
       "highlights": [
