@@ -84,7 +84,7 @@
     "projects": {
       "SystemsPlayground": {
         "name": "Systems Playground",
-        "description": "Systems‑focused C++ engine prototype built to explore modern game‑engine architecture."
+        "description": "C++ custom engine."
       }
     },
     "skills": {
