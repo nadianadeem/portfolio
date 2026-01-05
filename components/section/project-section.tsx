@@ -12,7 +12,7 @@ export const ProjectSection = () => {
 
   return projects.map((project) => {
     const ProjectContent = (
-      <div className="flex flex-1 flex-wrap items-center gap-4">
+      <div className="flex flex-1 flex-col flex-wrap items-center gap-4">
         <div className="h-8 w-8">
           <div className="block h-full w-full dark:hidden">
             <Image
