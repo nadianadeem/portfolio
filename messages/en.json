@@ -85,14 +85,6 @@
       "SystemsPlayground": {
         "name": "Systems Playground",
         "description": "A small, systems‑focused C++ engine prototype built to explore modern game‑engine architecture."
-      },
-      "delices": {
-        "name": "Délices de Yifan",
-        "description": "Project for the family restaurant"
-      },
-      "sopra": {
-        "name": "Sopra Steria",
-        "description": "University project with Sopra Steria"
       }
     },
     "skills": {

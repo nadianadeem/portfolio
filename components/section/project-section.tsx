@@ -1,10 +1,10 @@
 "use client";
 
 import { Button } from "@/components/ui/button";
-import Image from "next/image";
-import Link from "next/link";
 import resume from "@/resume.json";
 import { useTranslations } from "next-intl";
+import Image from "next/image";
+import Link from "next/link";
 
 export const ProjectSection = () => {
   const t = useTranslations("resume");
@@ -12,7 +12,7 @@ export const ProjectSection = () => {
 
   return projects.map((project) => {
     const ProjectContent = (
-      <div className="flex flex-1 items-center gap-4">
+      <div className="flex flex-1 flex-wrap items-center gap-4">
         <div className="h-8 w-8">
           <div className="block h-full w-full dark:hidden">
             <Image
@@ -34,13 +34,15 @@ export const ProjectSection = () => {
           </div>
         </div>
         <div className="flex flex-1 flex-col items-start">
-          <div className="flex w-full flex-row justify-between">
+          <div className="flex w-full flex-col flex-row justify-between">
             <h3 className="leading-6 group-hover:underline">
               {t(project.nameKey)}
             </h3>
-            <p className="text-xs text-muted-foreground">{project.year}</p>
+            <p className="text-muted-foreground flex flex-wrap text-xs">
+              {project.year}
+            </p>
           </div>
-          <p className="text-xs font-light text-muted-foreground">
+          <p className="text-muted-foreground flex flex-col flex-wrap text-xs font-light">
             {t(project.descriptionKey)}
           </p>
         </div>

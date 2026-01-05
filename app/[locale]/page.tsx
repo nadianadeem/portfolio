@@ -15,8 +15,7 @@ const Home = async () => {
     getTranslations("resume"),
   ]);
   const { basics } = resume;
-  const isDecember = new Date().getMonth() === 11;
-  const avatarSrc = isDecember ? "/logo/me-christmas.svg" : "/logo/me.svg";
+  const avatarSrc = "/logo/me.svg";
   const contributions = getGitHubContributions();
 
   return (
@@ -25,7 +24,7 @@ const Home = async () => {
         <div className="mx-8 flex flex-col gap-10 md:mx-0">
           <section>
             <div className="relative flex w-full">
-              <div className="relative block size-28 shrink-0 md:size-36">
+              <div className="relative block size-11 shrink-0 md:size-36">
                 <Image alt="" fill src={avatarSrc} />
               </div>
               <div className="absolute top-1/2 left-28 md:left-36">
@@ -61,7 +60,7 @@ const Home = async () => {
             <WorkSection />
           </section>
           <section>
-            <h2 className="mb-4 w-full text-xl font-medium">
+            <h2 className="mb-4 flex w-full text-xl font-medium">
               {tHome("projects-heading")}
             </h2>
             <ProjectSection />
