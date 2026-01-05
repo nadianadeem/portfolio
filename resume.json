@@ -4,26 +4,85 @@
     "labelKey": "basics.label",
     "summaryKey": "basics.summary",
     "image": "",
-    "email": "sabine.sun@protonmail.com",
+    "email": "nadianadeem365@gmail.com",
     "phone": "",
-    "url": "https://www.sabinesun.com/",
+    "url": "https://www.nadianadeem.com/",
     "location": {
-      "address": "11 avenue de Versailles",
-      "postalCode": "75016",
-      "city": "Paris",
-      "countryCode": "",
-      "region": ""
+      "address": "1 Shelton Drive",
+      "postalCode": "WS4 1BN",
+      "city": "Walsall",
+      "countryCode": "GB",
+      "region": "West Midlands"
     },
     "socialMedia": {
       "linkedIn": {
-        "url": "https://www.linkedin.com/in/sabinesun/"
+        "url": "https://www.linkedin.com/in/nadia-nadeem-a96a34156/"
       },
       "github": {
-        "url": "https://github.com/sabinesun"
+        "url": "https://github.com/nadianadeem"
       }
     }
   },
   "work": [
+    {
+      "id": "rare",
+      "nameKey": "work.rare.name",
+      "locationKey": "work.rare.location",
+      "positionKey": "work.rare.position",
+      "summaryKey": "work.rare.summary",
+      "url": "https://www.rare.co.uk/",
+      "logo": "/logo/rare-logo.svg",
+      "logoDark": "/logo/rare-logo.svg",
+      "startDate": "07/23",
+      "endDateKey": "work.kiosk.end-date",
+      "highlights": [
+        "work.kiosk.highlights.navigation-speed",
+        "work.kiosk.highlights.design-system",
+        "work.kiosk.highlights.architecture-refactor"
+      ],
+      "skills": [
+        {
+          "id": "CPlusPlus",
+          "nameKey": "skills.CPlusPlus",
+          "url": "https://cplusplus.com/"
+        },
+        {
+          "id": "CSharp",
+          "nameKey": "skills.CSharp",
+          "url": ""
+        },
+        {
+          "id": "remix",
+          "nameKey": "skills.remix",
+          "url": "https://remix.run/"
+        },
+        {
+          "id": "mantine",
+          "nameKey": "skills.mantine",
+          "url": "https://mantine.dev/"
+        },
+        {
+          "id": "prisma",
+          "nameKey": "skills.prisma",
+          "url": "https://www.prisma.io/"
+        },
+        {
+          "id": "storybook",
+          "nameKey": "skills.storybook",
+          "url": "https://storybook.js.org/"
+        },
+        {
+          "id": "playwright",
+          "nameKey": "skills.playwright",
+          "url": "https://playwright.dev/"
+        },
+        {
+          "id": "i18next",
+          "nameKey": "skills.i18next",
+          "url": "https://www.i18next.com/"
+        }
+      ]
+    },
     {
       "id": "kiosk",
       "nameKey": "work.kiosk.name",
@@ -41,18 +100,46 @@
         "work.kiosk.highlights.architecture-refactor"
       ],
       "skills": [
-        { "id": "react", "nameKey": "skills.react", "url": "https://fr.react.dev/" },
+        {
+          "id": "CPlusPlus",
+          "nameKey": "skills.CPlusPlus",
+          "url": "https://cplusplus.com/"
+        },
         {
           "id": "typescript",
           "nameKey": "skills.typescript",
           "url": "https://www.typescriptlang.org/"
         },
-        { "id": "remix", "nameKey": "skills.remix", "url": "https://remix.run/" },
-        { "id": "mantine", "nameKey": "skills.mantine", "url": "https://mantine.dev/" },
-        { "id": "prisma", "nameKey": "skills.prisma", "url": "https://www.prisma.io/" },
-        { "id": "storybook", "nameKey": "skills.storybook", "url": "https://storybook.js.org/" },
-        { "id": "playwright", "nameKey": "skills.playwright", "url": "https://playwright.dev/" },
-        { "id": "i18next", "nameKey": "skills.i18next", "url": "https://www.i18next.com/" }
+        {
+          "id": "remix",
+          "nameKey": "skills.remix",
+          "url": "https://remix.run/"
+        },
+        {
+          "id": "mantine",
+          "nameKey": "skills.mantine",
+          "url": "https://mantine.dev/"
+        },
+        {
+          "id": "prisma",
+          "nameKey": "skills.prisma",
+          "url": "https://www.prisma.io/"
+        },
+        {
+          "id": "storybook",
+          "nameKey": "skills.storybook",
+          "url": "https://storybook.js.org/"
+        },
+        {
+          "id": "playwright",
+          "nameKey": "skills.playwright",
+          "url": "https://playwright.dev/"
+        },
+        {
+          "id": "i18next",
+          "nameKey": "skills.i18next",
+          "url": "https://www.i18next.com/"
+        }
       ]
     },
     {
@@ -73,18 +160,44 @@
         "work.canal.highlights.maintainability"
       ],
       "skills": [
-        { "id": "react", "nameKey": "skills.react", "url": "https://fr.react.dev/" },
+        {
+          "id": "CPlusPlus",
+          "nameKey": "skills.CPlusPlus",
+          "url": "https://cplusplus.com/"
+        },
         {
           "id": "typescript",
           "nameKey": "skills.typescript",
           "url": "https://www.typescriptlang.org/"
         },
-        { "id": "scss", "nameKey": "skills.scss", "url": "https://sass-lang.com/" },
-        { "id": "storybook", "nameKey": "skills.storybook", "url": "https://storybook.js.org/" },
-        { "id": "vitest", "nameKey": "skills.vitest", "url": "https://vitest.dev/" },
-        { "id": "playwright", "nameKey": "skills.playwright", "url": "https://playwright.dev/" },
-        { "id": "a11y", "nameKey": "skills.a11y" },
-        { "id": "i18n", "nameKey": "skills.i18n" }
+        {
+          "id": "scss",
+          "nameKey": "skills.scss",
+          "url": "https://sass-lang.com/"
+        },
+        {
+          "id": "storybook",
+          "nameKey": "skills.storybook",
+          "url": "https://storybook.js.org/"
+        },
+        {
+          "id": "vitest",
+          "nameKey": "skills.vitest",
+          "url": "https://vitest.dev/"
+        },
+        {
+          "id": "playwright",
+          "nameKey": "skills.playwright",
+          "url": "https://playwright.dev/"
+        },
+        {
+          "id": "a11y",
+          "nameKey": "skills.a11y"
+        },
+        {
+          "id": "i18n",
+          "nameKey": "skills.i18n"
+        }
       ]
     },
     {
@@ -105,7 +218,10 @@
         "work.dcbrain.highlights.modernization"
       ],
       "skills": [
-        { "id": "custom-framework", "nameKey": "skills.custom-framework" },
+        {
+          "id": "custom-framework",
+          "nameKey": "skills.custom-framework"
+        },
         {
           "id": "typescript",
           "nameKey": "skills.typescript",
@@ -116,7 +232,10 @@
           "nameKey": "skills.css",
           "url": "https://developer.mozilla.org/fr/docs/Web/CSS"
         },
-        { "id": "i18n", "nameKey": "skills.i18n" }
+        {
+          "id": "i18n",
+          "nameKey": "skills.i18n"
+        }
       ]
     }
   ],
@@ -149,22 +268,38 @@
     }
   ],
   "skills": [
-    { "id": "react", "nameKey": "skills.react", "url": "https://fr.react.dev/" },
+    {
+      "id": "CPlusPlus",
+      "nameKey": "skills.CPlusPlus",
+      "url": "https://cplusplus.com/"
+    },
     {
       "id": "typescript",
       "nameKey": "skills.typescript",
       "url": "https://www.typescriptlang.org/"
     },
     { "id": "remix", "nameKey": "skills.remix", "url": "https://remix.run/" },
-    { "id": "css", "nameKey": "skills.css", "url": "https://developer.mozilla.org/fr/docs/Web/CSS" },
+    {
+      "id": "css",
+      "nameKey": "skills.css",
+      "url": "https://developer.mozilla.org/fr/docs/Web/CSS"
+    },
     { "id": "scss", "nameKey": "skills.scss", "url": "https://sass-lang.com/" },
     {
       "id": "tailwind",
       "nameKey": "skills.tailwind",
       "url": "https://tailwindcss.com/"
     },
-    { "id": "storybook", "nameKey": "skills.storybook", "url": "https://storybook.js.org/" },
-    { "id": "vitest", "nameKey": "skills.vitest", "url": "https://vitest.dev/" },
+    {
+      "id": "storybook",
+      "nameKey": "skills.storybook",
+      "url": "https://storybook.js.org/"
+    },
+    {
+      "id": "vitest",
+      "nameKey": "skills.vitest",
+      "url": "https://vitest.dev/"
+    },
     {
       "id": "playwright",
       "nameKey": "skills.playwright",
@@ -175,6 +310,10 @@
       "nameKey": "skills.a11y",
       "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility"
     },
-    { "id": "i18next", "nameKey": "skills.i18next", "url": "https://www.i18next.com/" }
+    {
+      "id": "i18next",
+      "nameKey": "skills.i18next",
+      "url": "https://www.i18next.com/"
+    }
   ]
 }

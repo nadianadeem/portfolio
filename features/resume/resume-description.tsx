@@ -17,7 +17,7 @@ export const ResumeDescription = async () => {
   const company = (chunks: ReactNode) => (
     <Link
       className="group relative inline-flex items-center"
-      href="https://www.meetkiosk.com/"
+      href="https://www.rare.co.uk/"
       rel="noreferrer"
       target="_blank"
     >
@@ -47,7 +47,7 @@ export const ResumeDescription = async () => {
           className="flex h-6 w-fit items-center gap-3 p-0 font-light"
         >
           <Link
-            href="https://www.google.com/maps/place/Paris/"
+            href="https://www.google.com/maps/place/WestMidlands"
             rel="noreferrer"
             target="_blank"
           >
@@ -62,7 +62,7 @@ export const ResumeDescription = async () => {
           variant="link"
           className="flex h-6 w-fit items-center gap-3 p-0 font-light"
         >
-          <Link href="mailto:sabine.sun@protonmail.com">
+          <Link href="mailto:nadianadeem365@gmail.com">
             <Icon className="ml-2">
               <MailIcon />
             </Icon>
@@ -75,7 +75,7 @@ export const ResumeDescription = async () => {
           className="flex h-6 w-fit items-center gap-3 p-0 font-light"
         >
           <Link
-            href="https://www.linkedin.com/in/sabinesun/"
+            href="https://www.linkedin.com/in/nadia-nadeem-a96a34156/"
             target="_blank"
             rel="noreferrer"
           >
@@ -91,7 +91,7 @@ export const ResumeDescription = async () => {
           className="flex h-6 w-fit items-center gap-3 p-0 font-light"
         >
           <Link
-            href="https://github.com/sabinesun"
+            href="https://github.com/nadianadeem"
             target="_blank"
             rel="noreferrer"
           >
