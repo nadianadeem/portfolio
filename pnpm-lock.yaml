@@ -72,7 +72,7 @@ importers:
         specifier: ^19
         version: 19.2.7
       "@types/react-dom":
-        specifier: ^18
+        specifier: ^19
         version: 18.3.7(@types/react@19.2.7)
       eslint:
         specifier: ^9.39.2
