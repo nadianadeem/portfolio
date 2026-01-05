@@ -20,7 +20,6 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { cn } from "@/lib/utils";
-import { GITHUB_USERNAME } from "../constant";
 
 export function GitHubContributionsGraph({
   contributions,
@@ -124,7 +123,7 @@ export function GitHubContributionsGraph({
                   link: (chunks) => (
                     <a
                       className="font-medium hover:underline hover:underline-offset-4"
-                      href={`https://github.com/${GITHUB_USERNAME}`}
+                      href={`https://github.com/nadianadeem`}
                       target="_blank"
                       rel="noopener"
                     >
