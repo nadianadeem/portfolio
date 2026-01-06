@@ -73,7 +73,7 @@
         "name": "Rare",
         "location": "Twycross, UK",
         "position": "Software Engineer",
-        "summary": "Rare is game studio in the UK known for their live service title Sea of Thieves as well as several nostalgic games.",
+        "summary": "Worked on Sea of Thieves (UE4) & Everwild (UE5)",
         "end-date": "Present",
         "highlights": {
           "engine-work": "Regularly optimising core and gameplay systems to improve performance on Sea of Thieves, working to a live service schedule cadence. As well as creating foundational systems for future gameplay features.",
@@ -100,8 +100,8 @@
         "name": "Rare",
         "location": "Twycross, UK",
         "position": "Software Engineer Intern",
-        "summary": "Rare is game studio in the UK known for their live service title Sea of Thieves as well as several nostalgic games.",
-        "start-date": "07/221",
+        "summary": "Worked on Sea of Thieves.",
+        "start-date": "07/21",
         "end-date": "08/22",
         "highlights": {
           "engine-work": "Main encompassing work was optimising buoyancy calculations server side under network relevancy conditions. I also contributed to fixing input issues on Sea of Thieves.",
