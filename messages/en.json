@@ -3,6 +3,7 @@
     "tagline": "Figuring out how everything fits together.",
     "about-heading": "About",
     "skills-heading": "Skills",
+    "education-heading": "Education",
     "experience-heading": "Professional Experience",
     "projects-heading": "Projects"
   },
@@ -132,6 +133,24 @@
       "SystemsPlayground": {
         "name": "Systems Playground",
         "description": "C++ custom engine."
+      }
+    },
+    "education": {
+      "bcu": {
+        "institution": "Birmingham City University",
+        "area": "Computer Games Technology BSc (Hons)",
+        "description": "Birmingham City University:   Computer Games Technology BSc (Hons) - First Class",
+        "studyType": "Bachelor's Degree",
+        "startDate": "09/19",
+        "endDate": "06/23",
+        "gpa": "First Class",
+        "courses": [
+          "Advanced C++ Programming",
+          "Game Engine Architecture",
+          "Systems Programming",
+          "Graphics Programming",
+          "AI for Games"
+        ]
       }
     },
     "skills": {

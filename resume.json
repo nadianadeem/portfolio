@@ -173,6 +173,13 @@
       "url": "https://github.com/nadianadeem/SystemsPlayground"
     }
   ],
+  "education": [
+    {
+      "id": "bcu",
+      "nameKey": "education.bcu.description",
+      "url": "https://www.bcu.ac.uk/student-info/look-at-me-now/nadia"
+    }
+  ],
   "skills": [
     {
       "id": "CPlusPlus",
