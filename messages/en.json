@@ -72,12 +72,59 @@
         "name": "Rare",
         "location": "Twycross, UK",
         "position": "Software Engineer",
-        "summary": "Rare is game studio in the UK known for their live service title Sea of Thieves as well several nostalgic games.",
+        "summary": "Rare is game studio in the UK known for their live service title Sea of Thieves as well as several nostalgic games.",
         "end-date": "Present",
         "highlights": {
-          "engine-work": "I worked on integrating and updating middleware software into the engine as well as upgrading Unreal Engine to new versions.",
+          "engine-work": "Optimising core and gameplay systems to reduce stalls with Sea of Thieves. As well as creating foundational systems for future gameplay features.",
+          "engine-upgrade-work": "I worked on integrating and updating middleware software into the engine as well as upgrading Unreal Engine to new versions.",
           "support-work": "Created tooling to help wider teams adhere to memory budgets, improve UI workflow and capability alongside game side system functionality, and generate clarity on game performance through telemetry systems.",
-          "compliance-work": "Enforced ruling on the codebase to increase code quality and conformance for future engine version upgrades to aid in new platform releases."
+          "compliance-work": "Enforced ruling on the codebase to increase code quality and conformance for future engine version upgrades to aid in new platform releases.",
+          "charity-work": "Captain of Rare Women's football team and also help coordinate events with the charity SpecialEffect."
+        }
+      },
+      "bcu-supervisor-2": {
+        "name": "Birmingham City University",
+        "location": "Birmingham, UK",
+        "position": "Student Demonstrator",
+        "summary": "Birmingham City University, 2D Game Programming Module for VFX Students",
+        "start-date": "08/22",
+        "end-date": "05/23",
+        "highlights": {
+          "uni-work": "Aided the teaching of VFX students to help make a 2D game in python. This included a lot of problem solving and debugging with students."
+        }
+      },
+      "rare-intern": {
+        "name": "Rare",
+        "location": "Twycross, UK",
+        "position": "Software Engineer Intern",
+        "summary": "Rare is game studio in the UK known for their live service title Sea of Thieves as well as several nostalgic games.",
+        "start-date": "07/221",
+        "end-date": "08/22",
+        "highlights": {
+          "engine-work": "Main encompassing work was optimising buoyancy calculations server side under network relevancy conditions. I also contributed to fixing input issues on Sea of Thieves.",
+          "gameplay-work": "6 month secondment to the Gameplay team to release Season 8. My main focus was tracking ship damage and faction setup."
+        }
+      },
+      "bcu-supervisor": {
+        "name": "Birmingham City University",
+        "location": "Birmingham, UK",
+        "position": "Student Demonstrator",
+        "summary": "Birmingham City University, 2D & 3D Game Programming Modules for Comp Game Tech Students",
+        "start-date": "08/20",
+        "end-date": "06/21",
+        "highlights": {
+          "uni-work": "Aided the teaching of 2D and 3D Unity based modules for first year students. This included discussion about game ideas and how it can tie in the assignment brief, problem solving issues students were seeing as well as general coding practice advice."
+        }
+      },
+      "sainsburys": {
+        "name": "Sainsbury's",
+        "location": "Birmingham, UK",
+        "position": "Customer Service Assistant",
+        "summary": "UK Supermarket",
+        "start-date": "11/17",
+        "end-date": "06/21",
+        "highlights": {
+          "work": "I worked as a Customer Service Assistant, helping customers with their inquiries and ensuring a positive shopping experience."
         }
       }
     },
@@ -93,6 +140,8 @@
       "UE4": "Unreal Engine 4",
       "UE5": "Unreal Engine 5",
       "Unity": "Unity",
+      "Python": "Python",
+      "Powershell": "PowerShell",
       "typescript": "TypeScript",
       "remix": "Remix",
       "css": "CSS",

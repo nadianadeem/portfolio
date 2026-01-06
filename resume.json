@@ -37,6 +37,7 @@
       "endDateKey": "work.rare.end-date",
       "highlights": [
         "work.rare.highlights.engine-work",
+        "work.rare.highlights.engine-upgrade-work",
         "work.rare.highlights.support-work",
         "work.rare.highlights.compliance-work"
       ],
@@ -52,6 +53,11 @@
           "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
         },
         {
+          "id": "Powershell",
+          "nameKey": "skills.Powershell",
+          "url": "https://learn.microsoft.com/en-us/powershell/"
+        },
+        {
           "id": "UE4",
           "nameKey": "skills.UE4",
           "url": "https://www.unrealengine.com/en-US/unreal-engine-4"
@@ -62,6 +68,98 @@
           "url": "https://www.unrealengine.com/en-US/unreal-engine-5"
         }
       ]
+    },
+    {
+      "id": "bcu-supervisor-2",
+      "nameKey": "work.bcu-supervisor-2.name",
+      "locationKey": "work.bcu-supervisor-2.location",
+      "positionKey": "work.bcu-supervisor-2.position",
+      "summaryKey": "work.bcu-supervisor-2.summary",
+      "url": "https://www.bcu.ac.uk/",
+      "logo": "/logo/bcu-logo-light.png",
+      "logoDark": "/logo/bcu-logo.png",
+      "startDate": "08/22",
+      "endDateKey": "work.bcu-supervisor-2.end-date",
+      "highlights": ["work.bcu-supervisor-2.highlights.uni-work"],
+      "skills": [
+        {
+          "id": "Python",
+          "nameKey": "skills.Python",
+          "url": "https://www.python.org/"
+        }
+      ]
+    },
+    {
+      "id": "rare-intern",
+      "nameKey": "work.rare-intern.name",
+      "locationKey": "work.rare-intern.location",
+      "positionKey": "work.rare-intern.position",
+      "summaryKey": "work.rare-intern.summary",
+      "url": "https://www.rare.co.uk/",
+      "logo": "/logo/rare-logo.png",
+      "logoDark": "/logo/rare-logo.png",
+      "startDate": "07/21",
+      "endDateKey": "work.rare-intern.end-date",
+      "highlights": [
+        "work.rare-intern.highlights.engine-work",
+        "work.rare-intern.highlights.gameplay-work"
+      ],
+      "skills": [
+        {
+          "id": "CPlusPlus",
+          "nameKey": "skills.CPlusPlus",
+          "url": "https://cplusplus.com/"
+        },
+        {
+          "id": "UE4",
+          "nameKey": "skills.UE4",
+          "url": "https://www.unrealengine.com/en-US/unreal-engine-4"
+        },
+        {
+          "id": "UE5",
+          "nameKey": "skills.UE5",
+          "url": "https://www.unrealengine.com/en-US/unreal-engine-5"
+        }
+      ]
+    },
+    {
+      "id": "bcu-supervisor",
+      "nameKey": "work.bcu-supervisor.name",
+      "locationKey": "work.bcu-supervisor.location",
+      "positionKey": "work.bcu-supervisor.position",
+      "summaryKey": "work.bcu-supervisor.summary",
+      "url": "https://www.bcu.ac.uk/",
+      "logo": "/logo/bcu-logo-light.png",
+      "logoDark": "/logo/bcu-logo.png",
+      "startDate": "05/21",
+      "endDateKey": "work.bcu-supervisor.end-date",
+      "highlights": ["work.bcu-supervisor.highlights.uni-work"],
+      "skills": [
+        {
+          "id": "CSharp",
+          "nameKey": "skills.CSharp",
+          "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+        },
+        {
+          "id": "Unity",
+          "nameKey": "skills.Unity",
+          "url": "https://unity.com/"
+        }
+      ]
+    },
+    {
+      "id": "sainsburys",
+      "nameKey": "work.sainsburys.name",
+      "locationKey": "work.sainsburys.location",
+      "positionKey": "work.sainsburys.position",
+      "summaryKey": "work.sainsburys.summary",
+      "url": "https://www.sainsburys.co.uk/",
+      "logo": "/logo/sainsburys-logo.png",
+      "logoDark": "/logo/sainsburys-logo.png",
+      "startDate": "11/17",
+      "endDateKey": "work.sainsburys.end-date",
+      "highlights": ["work.sainsburys.highlights.work"],
+      "skills": []
     }
   ],
   "projects": [
