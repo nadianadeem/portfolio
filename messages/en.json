@@ -135,6 +135,10 @@
       "SystemsPlayground": {
         "name": "Systems Playground",
         "description": "C++ custom engine."
+      },
+      "Happyland": {
+        "name": "Happyland",
+        "description": "Unity 3D Solo Game Project"
       }
     },
     "education": {
