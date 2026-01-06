@@ -33,7 +33,7 @@ export const ProjectSection = () => {
             />
           </div>
         </div>
-        <div className="flex flex-1 flex-wrap items-center gap-4">
+        <div className="flex flex-1 flex-wrap items-center gap-2">
           <div className="flex w-full flex-col flex-row justify-between">
             <h3 className="leading-6 group-hover:underline">
               {t(project.nameKey)}
