@@ -76,10 +76,12 @@
         "summary": "Rare is game studio in the UK known for their live service title Sea of Thieves as well as several nostalgic games.",
         "end-date": "Present",
         "highlights": {
-          "engine-work": "Optimising core and gameplay systems to reduce stalls with Sea of Thieves. As well as creating foundational systems for future gameplay features.",
+          "engine-work": "Regularly optimising core and gameplay systems to improve performance on Sea of Thieves, working to a live service schedule cadence. As well as creating foundational systems for future gameplay features.",
           "engine-upgrade-work": "I worked on integrating and updating middleware software into the engine as well as upgrading Unreal Engine to new versions.",
+          "tech-rep-work": "Technical representative for gameplay teams to aid in performance and memory approval for game features.",
+          "ui-tech-rep-work": "Technical Representative for the UI team to help guide best practices for UI systems and aid in performance and memory approval for features as well as creating features/tooling to improve feature signoff processes and workflow issues.",
           "support-work": "Created tooling to help wider teams adhere to memory budgets, improve UI workflow and capability alongside game side system functionality, and generate clarity on game performance through telemetry systems.",
-          "compliance-work": "Enforced ruling on the codebase to increase code quality and conformance for future engine version upgrades to aid in new platform releases.",
+          "compliance-work": "Enforced ruling on coding standards and conformance for future engine version upgrades as well as compliance regulations to aid in new platform releases.",
           "charity-work": "Captain of Rare Women's football team and also help coordinate events with the charity SpecialEffect."
         }
       },

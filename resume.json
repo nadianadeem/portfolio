@@ -38,8 +38,11 @@
       "highlights": [
         "work.rare.highlights.engine-work",
         "work.rare.highlights.engine-upgrade-work",
+        "work.rare.highlights.tech-rep-work",
+        "work.rare.highlights.ui-tech-rep-work",
         "work.rare.highlights.support-work",
-        "work.rare.highlights.compliance-work"
+        "work.rare.highlights.compliance-work",
+        "work.rare.highlights.charity-work"
       ],
       "skills": [
         {
