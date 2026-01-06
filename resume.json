@@ -176,13 +176,31 @@
       "url": "https://github.com/nadianadeem/SystemsPlayground"
     },
     {
+      "id": "CheckmateEvolution",
+      "nameKey": "projects.CheckmateEvolution.name",
+      "descriptionKey": "projects.CheckmateEvolution.description",
+      "logo": "/logo/checkmate-logo.png",
+      "logoDark": "/logo/checkmate-logo.png",
+      "year": "2023",
+      "url": "https://nadianadeem.itch.io/checkmate-evolution"
+    },
+    {
       "id": "Happyland",
       "nameKey": "projects.Happyland.name",
       "descriptionKey": "projects.Happyland.description",
       "logo": "/logo/happyland-logo.png",
       "logoDark": "/logo/happyland-logo.png",
-      "year": "2022",
+      "year": "2023",
       "url": "https://github.com/nadianadeem/BCU-Happyland"
+    },
+    {
+      "id": "QuantumField",
+      "nameKey": "projects.QuantumField.name",
+      "descriptionKey": "projects.QuantumField.description",
+      "logo": "/logo/quantum-field-logo.png",
+      "logoDark": "/logo/quantum-field-logo.png",
+      "year": "2022",
+      "url": "https://modqueen09.itch.io/quantum-field"
     }
   ],
   "education": [

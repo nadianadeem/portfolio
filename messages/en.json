@@ -134,11 +134,19 @@
     "projects": {
       "SystemsPlayground": {
         "name": "Systems Playground",
-        "description": "C++ custom engine."
+        "description": "C++ custom engine"
       },
       "Happyland": {
         "name": "Happyland",
         "description": "Unity 3D Solo Game Project"
+      },
+      "CheckmateEvolution": {
+        "name": "Checkmate Evolution",
+        "description": "Unity 3D Group Project developed for Nintendo Switch"
+      },
+      "QuantumField": {
+        "name": "Quantum Field",
+        "description": "Global Game Jam 2022 Group Submission"
       }
     },
     "education": {
