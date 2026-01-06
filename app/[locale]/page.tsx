@@ -27,10 +27,10 @@ const Home = async () => {
         <div className="mx-8 flex flex-col gap-15 md:mx-0">
           <section>
             <div className="relative flex w-full">
-              <div className="relative block size-11 shrink-0 md:size-36">
+              <div className="relative block size-36 md:size-36">
                 <Image alt="" fill src={avatarSrc} />
               </div>
-              <div className="absolute top-1/2 left-28 gap-2 md:left-36">
+              <div className="absolute top-1/2 left-38 gap-2 md:left-36">
                 <h2 className="text-lg leading-6 font-medium">
                   {tResume(basics.nameKey)}
                 </h2>
