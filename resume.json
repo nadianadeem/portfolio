@@ -222,6 +222,16 @@
       "url": "https://docs.microsoft.com/en-us/dotnet/csharp/"
     },
     {
+      "id": "Python",
+      "nameKey": "skills.Python",
+      "url": "https://www.python.org/"
+    },
+    {
+      "id": "Powershell",
+      "nameKey": "skills.Powershell",
+      "url": "https://learn.microsoft.com/en-us/powershell/"
+    },
+    {
       "id": "UE4",
       "nameKey": "skills.UE4",
       "url": "https://www.unrealengine.com/en-US/unreal-engine-4"
