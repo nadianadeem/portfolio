@@ -24,7 +24,7 @@ const Home = async () => {
   return (
     <main className="flex max-w-screen flex-col items-center font-light">
       <div className="w-full md:max-w-xl">
-        <div className="mx-8 flex flex-col gap-15 md:mx-0">
+        <div className="mx-8 flex flex-col gap-5 md:mx-0">
           <section>
             <div className="relative flex w-full">
               <div className="relative block size-36 md:size-36">
@@ -34,7 +34,7 @@ const Home = async () => {
                 <h2 className="text-lg leading-6 font-medium">
                   {tResume(basics.nameKey)}
                 </h2>
-                <p className="text-muted-foreground gap-2 text-sm">
+                <p className="text-muted-foreground text-sm">
                   {tHome("tagline")}
                 </p>
               </div>
@@ -42,7 +42,7 @@ const Home = async () => {
             <ResumeDescription />
           </section>
           <section>
-            <h2 className="mb-4 w-full text-xl font-medium">
+            <h2 className="w-full text-xl font-medium">
               {tHome("about-heading")}
             </h2>
             <DescriptionSection />

@@ -34,9 +34,8 @@ export const ResumeDescription = async () => {
 
   return (
     <div className="text-sm">
-      <div className="flex flex-col gap-1">
-        <div className="h-2 w-fit items-center gap-2 p-0 px-3 font-light whitespace-nowrap"></div>
-        <div className="h-6 w-fit flex-1 items-center gap-1 p-0 px-3 font-light whitespace-nowrap">
+      <div className="flex flex-col">
+        <div className="flex h-6 w-fit items-center gap-1 p-0 px-3 font-light whitespace-nowrap">
           <Icon className="ml-2">
             <CodeIcon />
           </Icon>
