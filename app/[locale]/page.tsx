@@ -24,17 +24,17 @@ const Home = async () => {
   return (
     <main className="flex max-w-screen flex-col items-center font-light">
       <div className="w-full md:max-w-xl">
-        <div className="mx-8 flex flex-col gap-10 md:mx-0">
+        <div className="mx-8 flex flex-col gap-15 md:mx-0">
           <section>
             <div className="relative flex w-full">
               <div className="relative block size-11 shrink-0 md:size-36">
                 <Image alt="" fill src={avatarSrc} />
               </div>
-              <div className="absolute top-1/2 left-28 md:left-36">
+              <div className="absolute top-1/2 left-28 gap-2 md:left-36">
                 <h2 className="text-lg leading-6 font-medium">
                   {tResume(basics.nameKey)}
                 </h2>
-                <p className="text-muted-foreground text-sm">
+                <p className="text-muted-foreground gap-2 text-sm">
                   {tHome("tagline")}
                 </p>
               </div>
